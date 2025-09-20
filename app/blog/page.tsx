@@ -6,6 +6,18 @@ import { Badge } from "@/components/ui/badge"
 import { Input } from "@/components/ui/input"
 import Link from "next/link"
 import { Calendar, Clock, User, ArrowRight, Search } from "lucide-react"
+import { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "Spiritual Blog | Psychic Insights & Spiritual Guidance | The Conjuring House",
+  description: "Discover spiritual insights, psychic guidance, and mystical wisdom in our comprehensive blog. Learn about tarot, astrology, energy healing, and spiritual development.",
+  keywords: "spiritual blog, psychic insights, tarot guide, astrology, energy healing, spiritual development, mystical wisdom, psychic advice",
+  openGraph: {
+    title: "Spiritual Blog | Psychic Insights & Spiritual Guidance",
+    description: "Discover spiritual insights, psychic guidance, and mystical wisdom in our comprehensive blog.",
+    type: "website",
+  },
+}
 
 const allBlogPosts = [
   {

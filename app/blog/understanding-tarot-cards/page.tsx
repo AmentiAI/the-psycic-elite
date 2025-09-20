@@ -5,6 +5,20 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
 import { Calendar, Clock, User, ArrowLeft, Star, Heart, Eye, Zap, Moon, Sun } from "lucide-react"
+import { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "Understanding Tarot Cards: A Beginner's Guide | The Conjuring House",
+  description: "Learn the basics of tarot cards with our comprehensive beginner's guide. Discover the Major and Minor Arcana, popular spreads, and how to find the perfect tarot reader.",
+  keywords: "tarot cards, tarot guide, beginner tarot, tarot reading, major arcana, minor arcana, tarot spreads, tarot meanings",
+  openGraph: {
+    title: "Understanding Tarot Cards: A Beginner's Guide",
+    description: "Learn the basics of tarot cards with our comprehensive beginner's guide. Discover the Major and Minor Arcana, popular spreads, and how to find the perfect tarot reader.",
+    type: "article",
+    publishedTime: "2024-01-15T00:00:00.000Z",
+    authors: ["Luna Starweaver"],
+  },
+}
 
 export default function UnderstandingTarotCards() {
   return (

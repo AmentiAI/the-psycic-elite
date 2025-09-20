@@ -5,6 +5,18 @@ import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import Link from "next/link"
 import { Star, Heart, Eye, Zap, Moon, Sun, Clock } from "lucide-react"
+import { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "Psychic Services | Tarot, Astrology, Energy Healing | The Conjuring House",
+  description: "Discover our comprehensive psychic services including tarot readings, astrology, energy healing, dream interpretation, and more. Professional spiritual guidance from certified psychics.",
+  keywords: "psychic services, tarot readings, astrology, energy healing, dream interpretation, love readings, spiritual guidance, psychic advisor",
+  openGraph: {
+    title: "Psychic Services | Tarot, Astrology, Energy Healing",
+    description: "Discover our comprehensive psychic services including tarot readings, astrology, energy healing, and more.",
+    type: "website",
+  },
+}
 
 const allServices = [
   {

@@ -9,9 +9,9 @@ import Link from "next/link"
 import { Star, Clock, Users, Shield, Award, Heart, Eye, Zap, Moon, Sun } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "Meet Our Gifted Psychics | Certified Spiritual Advisors",
-  description: "Discover our team of certified psychics, mediums, and spiritual advisors. Each with unique gifts and decades of experience to guide you on your spiritual journey.",
-  keywords: "psychics, spiritual advisors, mediums, tarot readers, astrologers, energy healers",
+  title: "Meet Our Gifted Psychics | Certified Spiritual Advisors | The Conjuring House",
+  description: "Discover our team of certified psychics, mediums, and spiritual advisors. Each with unique gifts and decades of experience to guide you on your spiritual journey. Book your reading today.",
+  keywords: "psychics, spiritual advisors, mediums, tarot readers, astrologers, energy healers, psychic readers, clairvoyant, psychic medium",
   openGraph: {
     title: "Meet Our Gifted Psychics | Certified Spiritual Advisors",
     description: "Discover our team of certified psychics, mediums, and spiritual advisors with unique gifts and decades of experience.",

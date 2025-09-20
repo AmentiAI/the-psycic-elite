@@ -8,27 +8,27 @@ import { ABTestingProvider } from "@/components/ab-testing-provider"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Conjuring Psychic Services - Expert Psychic Readings & Spiritual Guidance",
+  title: "The Conjuring House - Expert Psychic Readings & Spiritual Guidance",
   description:
-    "Connect with gifted psychics in Rhode Island for tarot readings, astrology, spiritual guidance, and more. Serving Providence, Newport, Warwick, and all of Rhode Island. Book your reading today.",
-  keywords: "psychic reading, tarot cards, astrology, spiritual guidance, Rhode Island, Providence, Newport, Warwick, psychic advisor, clairvoyant, medium, energy healing, crystal healing, dream interpretation",
-  authors: [{ name: "Conjuring Psychic Services" }],
-  creator: "Conjuring Psychic Services",
-  publisher: "Conjuring Psychic Services",
+    "Connect with gifted psychics for tarot readings, astrology, spiritual guidance, and more. Professional psychic services with certified readers. Book your reading today.",
+  keywords: "psychic reading, tarot cards, astrology, spiritual guidance, psychic advisor, clairvoyant, medium, energy healing, crystal healing, dream interpretation, psychic services, spiritual advisor",
+  authors: [{ name: "The Conjuring House" }],
+  creator: "The Conjuring House",
+  publisher: "The Conjuring House",
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://conjuring-psychic-services.com'), // Replace with your actual domain
+  metadataBase: new URL('https://www.theconjuringhouse.net'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
-    title: "Conjuring Psychic Services - Expert Psychic Readings & Spiritual Guidance",
-    description: "Connect with gifted psychics in Rhode Island for tarot readings, astrology, spiritual guidance, and more. Book your reading today.",
-    url: 'https://conjuring-psychic-services.com',
-    siteName: 'Conjuring Psychic Services',
+    title: "The Conjuring House - Expert Psychic Readings & Spiritual Guidance",
+    description: "Connect with gifted psychics for tarot readings, astrology, spiritual guidance, and more. Professional psychic services with certified readers.",
+    url: 'https://www.theconjuringhouse.net',
+    siteName: 'The Conjuring House',
     images: [
       {
         url: '/mystical-forest-with-ethereal-light-rays-and-spiri.jpg',
@@ -42,8 +42,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Conjuring Psychic Services - Expert Psychic Readings & Spiritual Guidance",
-    description: "Connect with gifted psychics in Rhode Island for tarot readings, astrology, spiritual guidance, and more.",
+    title: "The Conjuring House - Expert Psychic Readings & Spiritual Guidance",
+    description: "Connect with gifted psychics for tarot readings, astrology, spiritual guidance, and more. Professional psychic services.",
     images: ['/mystical-forest-with-ethereal-light-rays-and-spiri.jpg'],
   },
   robots: {
@@ -70,9 +70,9 @@ export default function RootLayout({
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": "Conjuring Psychic Services",
-    "description": "Rhode Island's premier psychic services offering tarot readings, astrology, spiritual guidance, and more.",
-    "url": "https://conjuring-psychic-services.com",
+    "name": "The Conjuring House",
+    "description": "Professional psychic services offering tarot readings, astrology, spiritual guidance, and more.",
+    "url": "https://www.theconjuringhouse.net",
     "telephone": "+1-401-XXX-XXXX", // Replace with actual phone number
     "address": {
       "@type": "PostalAddress",

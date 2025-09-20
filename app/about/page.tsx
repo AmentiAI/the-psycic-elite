@@ -7,12 +7,12 @@ import Link from "next/link"
 import { Heart, Users, Award, Shield, ExternalLink } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "About Us | The Conjuring House - Rhode Island's Premier Psychic Services",
-  description: "Learn about The Conjuring House, Rhode Island's most trusted psychic services. Discover our mission, values, and the gifted psychics who make up our team.",
-  keywords: "about us, psychic services, Rhode Island, spiritual guidance, team, mission, values",
+  title: "About Us | The Conjuring House - Premier Psychic Services",
+  description: "Learn about The Conjuring House, trusted psychic services provider. Discover our mission, values, and the gifted psychics who make up our team.",
+  keywords: "about us, psychic services, spiritual guidance, team, mission, values, psychic readers, spiritual advisors",
   openGraph: {
     title: "About Us | The Conjuring House",
-    description: "Learn about The Conjuring House, Rhode Island's most trusted psychic services and our mission to provide spiritual guidance.",
+    description: "Learn about The Conjuring House, trusted psychic services provider and our mission to provide spiritual guidance.",
     type: "website",
   },
 }

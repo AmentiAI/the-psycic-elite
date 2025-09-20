@@ -12,7 +12,7 @@ import { Phone, Mail, MapPin, Clock, ExternalLink } from "lucide-react"
 export const metadata: Metadata = {
   title: "Contact Us | The Conjuring House - Get in Touch",
   description: "Contact The Conjuring House for questions about our psychic services, booking information, or spiritual guidance. We're here to help you on your journey.",
-  keywords: "contact us, psychic services, spiritual guidance, booking, questions, Rhode Island",
+  keywords: "contact us, psychic services, spiritual guidance, booking, questions, psychic readers, spiritual advisors",
   openGraph: {
     title: "Contact Us | The Conjuring House",
     description: "Contact The Conjuring House for questions about our psychic services or to book your reading.",
