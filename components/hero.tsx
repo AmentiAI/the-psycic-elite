@@ -31,7 +31,7 @@ export function Hero() {
         </div>
 
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 text-balance">
-          Connect with <span className="text-primary bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">Expert Psychics</span> Today
+          Connect with <span className="text-purple-600 font-extrabold">Expert Psychics</span> Today
         </h1>
         
         {/* SCARCITY & SOCIAL PROOF */}
