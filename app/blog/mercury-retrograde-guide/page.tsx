@@ -279,7 +279,7 @@ export default function MercuryRetrogradeGuide() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button asChild>
-                  <Link href="/book?service=astrology">Book Your Astrology Reading</Link>
+                  <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored">Book Your Astrology Reading</a>
                 </Button>
                 <Button asChild variant="outline">
                   <Link href="/services">Explore Our Services</Link>

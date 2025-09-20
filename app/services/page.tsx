@@ -212,7 +212,7 @@ export default function ServicesPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild size="lg">
-              <Link href="/book">Book Your Reading</Link>
+              <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored">Book Your Reading</a>
             </Button>
             <Button asChild variant="outline" size="lg">
               <Link href="/psychics">Meet Our Psychics</Link>

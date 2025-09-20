@@ -31,7 +31,7 @@ export function Hero() {
         </div>
 
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 text-balance">
-          Rhode Island's Premier <span className="text-primary bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">Psychic</span> Services
+          Connect with <span className="text-primary bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">Expert Psychics</span> Today
         </h1>
         
         {/* SCARCITY & SOCIAL PROOF */}
@@ -102,11 +102,11 @@ export function Hero() {
             </Button>
             
             <Button asChild className="h-20 bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700 text-white font-bold text-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200">
-              <Link href="/book" className="flex flex-col items-center gap-2">
+              <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored" className="flex flex-col items-center gap-2">
                 <Calendar className="h-6 w-6" />
                 <span>Book Session</span>
                 <span className="text-sm opacity-90">Schedule Now</span>
-              </Link>
+              </a>
             </Button>
           </div>
 

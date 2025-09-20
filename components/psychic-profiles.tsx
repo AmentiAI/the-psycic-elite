@@ -132,7 +132,7 @@ export function PsychicProfiles() {
 
                 <div className="flex gap-2">
                   <Button asChild size="sm" className="flex-1">
-                    <Link href={`/book?psychic=${psychic.id}`}>Book Reading</Link>
+                    <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored">Book Reading</a>
                   </Button>
                   <Button asChild variant="outline" size="sm">
                     <Link href={`/psychics/${psychic.id}`}>

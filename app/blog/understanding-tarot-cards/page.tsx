@@ -214,7 +214,7 @@ export default function UnderstandingTarotCards() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button asChild>
-                  <Link href="/book?service=tarot">Book Your Tarot Reading</Link>
+                  <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored">Book Your Tarot Reading</a>
                 </Button>
                 <Button asChild variant="outline">
                   <Link href="/psychics">Meet Our Tarot Readers</Link>

@@ -282,7 +282,7 @@ export default function DreamInterpretationSymbols() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button asChild>
-                  <Link href="/book?service=dream">Book Dream Interpretation</Link>
+                  <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored">Book Dream Interpretation</a>
                 </Button>
                 <Button asChild variant="outline">
                   <Link href="/psychics">Meet Our Dream Experts</Link>

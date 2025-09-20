@@ -8,7 +8,7 @@ import { ABTestingProvider } from "@/components/ab-testing-provider"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Conjuring Psychic Services - Rhode Island's Premier Psychic Readings",
+  title: "Conjuring Psychic Services - Expert Psychic Readings & Spiritual Guidance",
   description:
     "Connect with gifted psychics in Rhode Island for tarot readings, astrology, spiritual guidance, and more. Serving Providence, Newport, Warwick, and all of Rhode Island. Book your reading today.",
   keywords: "psychic reading, tarot cards, astrology, spiritual guidance, Rhode Island, Providence, Newport, Warwick, psychic advisor, clairvoyant, medium, energy healing, crystal healing, dream interpretation",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     canonical: '/',
   },
   openGraph: {
-    title: "Conjuring Psychic Services - Rhode Island's Premier Psychic Readings",
+    title: "Conjuring Psychic Services - Expert Psychic Readings & Spiritual Guidance",
     description: "Connect with gifted psychics in Rhode Island for tarot readings, astrology, spiritual guidance, and more. Book your reading today.",
     url: 'https://conjuring-psychic-services.com',
     siteName: 'Conjuring Psychic Services',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Conjuring Psychic Services - Rhode Island's Premier Psychic Readings",
+    title: "Conjuring Psychic Services - Expert Psychic Readings & Spiritual Guidance",
     description: "Connect with gifted psychics in Rhode Island for tarot readings, astrology, spiritual guidance, and more.",
     images: ['/mystical-forest-with-ethereal-light-rays-and-spiri.jpg'],
   },
