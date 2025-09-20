@@ -163,10 +163,10 @@ export function Services() {
                 </a>
               </Button>
               <Button asChild variant="outline" size="lg" className="text-lg px-8 py-4 border-2 border-purple-600 text-purple-600 hover:bg-purple-50">
-                <Link href="/contact" className="flex items-center gap-2">
+                <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored" className="flex items-center gap-2">
                   <Heart className="h-5 w-5" />
                   Call (401) 555-PSYCH
-                </Link>
+                </a>
               </Button>
             </div>
             <p className="text-sm text-gray-500 mt-4">

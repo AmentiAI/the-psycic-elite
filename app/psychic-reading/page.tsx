@@ -98,7 +98,7 @@ export default function PsychicReadingPage() {
               </a>
             </Button>
             <Button asChild variant="outline" size="lg" className="text-lg px-8 py-4">
-              <Link href="/services">View All Services</Link>
+              <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored">View All Services</a>
             </Button>
           </div>
         </div>

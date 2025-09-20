@@ -50,10 +50,10 @@ export function FloatingCTA() {
             </Button>
             
             <Button asChild size="sm" variant="outline" className="w-full border-white/30 text-white hover:bg-white/10">
-              <Link href="/services" className="flex items-center gap-1">
+              <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored" className="flex items-center gap-1">
                 <Phone className="h-3 w-3" />
                 Call Now
-              </Link>
+              </a>
             </Button>
           </div>
         </div>

@@ -30,7 +30,7 @@ export function Navigation() {
             </Link>
             <div className="flex items-center space-x-2">
               <Button asChild variant="outline" size="sm">
-                <Link href="/tarot-reading">Tarot Reading</Link>
+                <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored">Tarot Reading</a>
               </Button>
               <Button asChild size="sm">
                 <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored">Get Reading</a>
@@ -73,9 +73,9 @@ export function Navigation() {
               </Link>
               <div className="px-3 py-2 space-y-2">
                 <Button asChild variant="outline" className="w-full">
-                  <Link href="/tarot-reading" onClick={() => setIsOpen(false)}>
+                  <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored" onClick={() => setIsOpen(false)}>
                     Tarot Reading
-                  </Link>
+                  </a>
                 </Button>
                 <Button asChild className="w-full">
                   <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored" onClick={() => setIsOpen(false)}>

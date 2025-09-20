@@ -74,10 +74,10 @@ export function Hero() {
                   </a>
                 </Button>
                 <Button asChild variant="outline" size="lg" className="text-lg px-8 py-4 border-2 border-purple-600 text-purple-600 hover:bg-purple-50">
-                  <Link href="/tarot-reading" className="flex items-center gap-2">
+                  <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored" className="flex items-center gap-2">
                     <Star className="h-5 w-5" />
                     Tarot Reading
-                  </Link>
+                  </a>
                 </Button>
               </div>
             </div>
@@ -86,19 +86,19 @@ export function Hero() {
           {/* SECONDARY CTAs */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <Button asChild className="h-20 bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-700 hover:to-cyan-700 text-white font-bold text-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200">
-              <Link href="/services" className="flex flex-col items-center gap-2">
+              <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored" className="flex flex-col items-center gap-2">
                 <Phone className="h-6 w-6" />
                 <span>Call Now</span>
                 <span className="text-sm opacity-90">(401) 555-PSYCH</span>
-              </Link>
+              </a>
             </Button>
             
             <Button asChild className="h-20 bg-gradient-to-r from-green-600 to-emerald-600 hover:from-green-700 hover:to-emerald-700 text-white font-bold text-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200">
-              <Link href="/contact" className="flex flex-col items-center gap-2">
+              <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored" className="flex flex-col items-center gap-2">
                 <MessageCircle className="h-6 w-6" />
                 <span>Chat Live</span>
                 <span className="text-sm opacity-90">Instant Response</span>
-              </Link>
+              </a>
             </Button>
             
             <Button asChild className="h-20 bg-gradient-to-r from-orange-600 to-red-600 hover:from-orange-700 hover:to-red-700 text-white font-bold text-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200">
