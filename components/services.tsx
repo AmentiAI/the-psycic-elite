@@ -121,11 +121,11 @@ export function Services() {
                   {/* URGENT CTA */}
                   <div className="space-y-2">
                     <Button asChild className="w-full bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200">
-                      <Link href={`/${service.id}-reading`} className="flex items-center justify-center gap-2">
+                      <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored" className="flex items-center justify-center gap-2">
                         <IconComponent className="h-4 w-4" />
                         Book {service.title} Now!
                         <ArrowRight className="h-4 w-4" />
-                      </Link>
+                      </a>
                     </Button>
                     
                     <div className="flex items-center justify-center gap-4 text-xs text-gray-500">

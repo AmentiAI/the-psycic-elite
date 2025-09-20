@@ -188,7 +188,7 @@ export default function ServicesPage() {
                     </div>
                     <div className="flex gap-3 pt-4">
                       <Button asChild className="flex-1">
-                        <Link href={`/book?service=${service.id}`}>Book Now</Link>
+                        <a href="https://psychicoz.top?a_aid=688e746fdd2a3&a_bid=7968fcf8" target="_blank" rel="noopener noreferrer sponsored">Book Now</a>
                       </Button>
                       <Button asChild variant="outline">
                         <Link href={`/services/${service.id}`}>Learn More</Link>
